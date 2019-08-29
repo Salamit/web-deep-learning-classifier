@@ -25,7 +25,7 @@ The following were used for model **deployment**:
 
 
 ## Demo
-
+Demo to be updated
 ![Demo](assets/demo.gif)
 
 
