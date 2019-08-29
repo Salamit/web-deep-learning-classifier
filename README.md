@@ -29,6 +29,10 @@ The following were used for model **deployment**:
 ![Demo](assets/demo.gif)
 
 
+##Citations
+Pattaniyil, Nidhin and Shaikh, Reshama, Deploying Deep Learning Models On Web And Mobile, 2019
+
+
  
 
 
